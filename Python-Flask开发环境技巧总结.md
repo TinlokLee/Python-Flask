@@ -125,7 +125,3 @@
     APP\\_CONFIG\\_FILE=/var/www/yourapp/config/production.py
     python run.py
 
-
-
-
-文档参考： https://www.jb51.net/article/88462.htm
