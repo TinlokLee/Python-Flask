@@ -121,6 +121,7 @@
 
     环境变量的值应该是配置文件的绝对路径
     运行在一个普通的 Linux 服务器上，我们可以编写一个设置环境变量的 shell 脚本并且运行 run.py
+    
     # start.sh
     APP\\_CONFIG\\_FILE=/var/www/yourapp/config/production.py
     python run.py
