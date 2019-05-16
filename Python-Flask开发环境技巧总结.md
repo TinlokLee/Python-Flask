@@ -125,4 +125,3 @@
     # start.sh
     APP\\_CONFIG\\_FILE=/var/www/yourapp/config/production.py
     python run.py
-
